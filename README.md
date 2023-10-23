@@ -1,19 +1,23 @@
-# 8-2-Journal-Portfolio-Submission
-My client for this class was Artemis Financial, a financial consulting company that develops individualized financial plans for their clients. Artemis Financial were seeking to add a file verification step to their web application to ensure secure communications.
+Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 
+The app was created to track user-made goals and allow them to be reminded of them. It was designed to help people accomplish goals they would otherwise put off. 
 
-I was good at looking over the codes securtiy. It's important to code securely so that you reduce the chance of exposing the code to vulnerabilites. Software Security adds safety and protection to a company's wellbeing, as well as giving them peace of mind that their information is safe and secure.
+What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
 
+Three screens were needed for the app, a home login screen , a settings screen, and a task screen. My app kept users in mind by design based on the Android app standards for design 
 
-I found that the errors I found where the hardest part of the project to deal with. They impacted my abilty to complete the code.
+How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
 
+I coded the app much in the same way that I coded most of my other projects, not using any special techniques or strategies.
 
-I chose some of the most vulnerable layers in the client's project and fortified those layers to increase the strength of the code's weakest link. In the future, I would spend more time on all of the code not just some layers
+How did you test to ensure your code was functional? Why is this process important and what did it reveal?
 
+I did not test my code to its fullest extent, this process revealed to me how much work I have left to do 
 
-I ensured the code and application were functional and secure by performing rigorous static and dynamic testing on the code to ensure every use case was handled and that none of the dependencies could be exploited. After refactoring the code, I ran through the same test cases to make sure everything was still safe and operational.
+Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
 
+I had to innovate to keep track of the content on each screen. I drew out each screen with its components to be able to track this. 
 
-I mainley used the maven dependency checker.
+In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
 
-I might consider showcasing my use of Dependency checkers to a future employer to show that I am competent with finding vulnerabilities within a codebase.
+It shows that I have a basic understanding of android studio but still have a lot of work to do when it comes to the backend
